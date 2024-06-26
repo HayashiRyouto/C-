@@ -1,4 +1,5 @@
 #include "Calclation.h"
+
 //プロトタイプ宣言
 void SetX(float a, float b);
 void SetY(float a, float b);
