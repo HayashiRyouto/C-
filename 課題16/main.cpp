@@ -1,5 +1,6 @@
 #include "Square.h"
 #include "Triangle.h"
+
 int main()
 {
 	Square s;
